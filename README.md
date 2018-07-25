@@ -13,6 +13,9 @@ Need help figuring out how to use if/else statements? Check out the resources be
 ### BONUS
 Too easy? To make your program really believable, have grandma shout a different year each time you run the program; maybe any year at random between 1930 and 1950. (Hint: There is a Ruby method that will generate random numbers.) 
 
+### BONUS #2
+Still too easy? To make your grandma method even more realistic, use one of the things that grandmas always say. Randomly generate a statement from the list found on this [website](https://www.grandmasbriefs.com/home/25-things-grandmas-supposedly-say-that-ive-never-heard-fellow-grandmothers-utter)! All of the sayings can be found in the `grandma-sayings.rb` file.
+
 ### DOUBLE BONUS
 Grandma decided she wants to keep talking to you and won't let you leave. Change your program so that it keeps running until you shout BYE. (Hint: You will probably want to use a `while loop` to keep the program running.)
 
